@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "description": "This is the first resource ever built with FXPM.",
+  "repository": "https://github.com/fxpm/test-resource.git",
+  "author": {
+    "name": "FXPM Core Team",
+    "email": ""
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "sidekicks": []
+}
